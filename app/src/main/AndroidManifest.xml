@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.primeirossocorrosactivity">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PrimeirosSocorrosActivity">
+        <activity android:name=".activity.ossos.OssosFraturadosActivity"></activity>
+        <activity android:name=".activity.diabetes.HipoglicemiaActivity" />
+        <activity android:name=".activity.diabetes.HiperglicemiaActivity" />
+        <activity android:name=".activity.diabetes.ProblemasDiabetesActivity" />
+        <activity android:name=".activity.cortes.CortesProfundosActivity" />
+        <activity android:name=".activity.cortes.CortesSuperficiaisActivity" />
+        <activity android:name=".activity.cortes.CortesActivity" />
+        <activity android:name=".activity.ataqueCardiaco.AtaqueCardiacoActivity" />
+        <activity android:name=".activity.afogamento.AfogamentoActivity" />
+        <activity android:name=".activity.pressaoSanguinea.PressaoBaixaActivity" />
+        <activity android:name=".activity.pressaoSanguinea.PressaoAltaActivity" />
+        <activity android:name=".activity.pressaoSanguinea.PressaoSanguineaActivity" />
+        <activity android:name=".activity.MainActivity"
+            android:screenOrientation="portrait"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

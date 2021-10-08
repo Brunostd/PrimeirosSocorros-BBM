@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PrimeirosSocorrosActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="texto_afogamento2">Após retirá-la da água, mantenha-a aquecida e peça ajuda ligando para o número 193. Se a vítima estiver consciente, deixe-a sentada enquanto aguarda pela chegada da ambulância. Se estiver inconsciente, siga os seguintes primeiros socorros:
+
+1) Deite a vítima de lado e mantenha-a aquecida;
+
+2) Observe se ela está respirando;
+
+3) Ligue e siga as instruções dadas pelo atendente do 193 (leve a vítima ao hospital ou espere pela chegada do socorro).
+
+Se a pessoa não estiver respirando, é necessário fazer a reanimação cardiopulmonar:
+
+1) Posicione a vítima deitada de barriga para cima sobre uma superfície plana e firme (a cabeça não deve estar mais alta que os pés para não prejudicar o fluxo sanguíneo cerebral);
+
+2) Ajoelhe-se ao lado da vítima, de maneira que os seus ombros fiquem diretamente sobre o meio do tórax dela;
+
+
+3) Com os braços esticados, coloque as mãos bem no meio do tórax da pessoa (entre os dois mamilos), apoiando uma mão sobre a outra;
+
+4) Inicie as compressões torácicas, que devem ser fortes, ritmadas e não podem ser interrompidas;
+
+5) Evite a respiração boca a boca se estiver sozinho, não interrompa as compressões cardíacas;
+
+6) O melhor é revezar nas compressões com outra pessoa, mas a troca não deve demorar mais de 1 segundo;
+
+7) A reanimação cardiorrespiratória só deve ser interrompida com a chegada do socorro especializado ou com a reanimação da vítima.</string>
+</resources>
